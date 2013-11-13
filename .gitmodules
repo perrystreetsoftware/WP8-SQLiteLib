@@ -1,0 +1,3 @@
+[submodule "sqlite-net-wp8"]
+	path = sqlite-net-wp8
+	url = git@github.com:perrystreetsoftware/sqlite-net-wp8
